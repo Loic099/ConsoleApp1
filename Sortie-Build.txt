@@ -1,0 +1,6 @@
+﻿Génération démarrée à 15:15...
+1>------ Début de la génération : Projet : ConsoleApp1, Configuration : Debug Any CPU ------
+1>Les analyseurs ont été ignorés pour accélérer la génération. Vous pouvez exécuter la commande « Build » ou « Rebuild » pour exécuter des analyseurs.
+1>ConsoleApp1 -> C:\Users\simon\Downloads\PROGRA 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+========== Build : 1 réussite(s), 0 échec(s), 0 à jour, 0 ignorée(s) ==========
+========== Build s’est terminée à 15:15 et a duré 00,451 secondes ==========
